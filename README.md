@@ -4,5 +4,5 @@
 
 🔬 My current research focuses on:
 
-* 🤖 **Embodied AI & Robot Learning**
-* 🏠 **3D Scene Generation for Embodied Agents**
+* 🤖 **Embodied AI & Mobile Manipulation**
+* 🏠 **Data Construction for Embodied Agents**
